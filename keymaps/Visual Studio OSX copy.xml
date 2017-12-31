@@ -12,6 +12,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoLine" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
