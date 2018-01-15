@@ -19,4 +19,8 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="SmartSearchAction">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
 </keymap>
