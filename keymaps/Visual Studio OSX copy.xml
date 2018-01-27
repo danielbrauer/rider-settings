@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="SearchAction" />
   <action id="SmartSearchAction">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
