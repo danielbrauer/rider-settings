@@ -13,6 +13,8 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -20,6 +22,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
@@ -39,4 +45,5 @@
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="ViewSource" />
 </keymap>
