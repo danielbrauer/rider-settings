@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="SearchAction" />
   <action id="ShowExecutionPoint">
