@@ -45,6 +45,10 @@
   </action>
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="SearchAction" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
