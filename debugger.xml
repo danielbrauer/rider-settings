@@ -3,9 +3,7 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general>
-      <scroll-to-center>true</scroll-to-center>
-    </general>
+    <general />
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
