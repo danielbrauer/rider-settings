@@ -14,5 +14,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="ide.disable.editor.tooltips" value="true" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
   </component>
 </application>
